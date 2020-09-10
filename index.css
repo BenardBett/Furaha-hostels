@@ -41,12 +41,12 @@ a:hover {
 
 
 .g1{
-    display:flex;
-    justify-content:ce;
-   padding-bottom: 40px;
-   overflow: hidden;
-   float: right;
-}
+
+    justify-content:center;
+   
+overflow: hidden;
+   
+}  
 
 #footer{
     background-color:blueviolet;
